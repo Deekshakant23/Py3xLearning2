@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/ex_03062024/Lab002.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="2nd code">
+      <change beforePath="$PROJECT_DIR$/ex_03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_03062024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717383100272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd code">
+      <option name="closed" value="true" />
+      <created>1717383470784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717383470784</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2nd code">
+      <option name="closed" value="true" />
+      <created>1717383556390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717383556390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="adasd" />
+    <MESSAGE value="2nd code" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd code" />
   </component>
 </project>
