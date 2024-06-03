@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="2nd code">
-      <change beforePath="$PROJECT_DIR$/ex_03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_03062024/Lab002.py" afterDir="false" />
-    </list>
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="new code for multiplication" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -92,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717383556390</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add new function">
+      <option name="closed" value="true" />
+      <created>1717383872602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717383872602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new code for multiplication">
+      <option name="closed" value="true" />
+      <created>1717384116843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717384116843</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adasd" />
     <MESSAGE value="2nd code" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd code" />
+    <MESSAGE value="add new function" />
+    <MESSAGE value="new code for multiplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="new code for multiplication" />
   </component>
 </project>
