@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="new statement learn(end ,sep)">
-      <change afterPath="$PROJECT_DIR$/lab002.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="\n and \t code">
+      <change afterPath="$PROJECT_DIR$/lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,8 @@
     "Python.Lab004.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -208,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717597408661</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="\n and \t code">
+      <option name="closed" value="true" />
+      <created>1717598809355</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717598809355</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +242,7 @@
     <MESSAGE value="new code" />
     <MESSAGE value="rohit's help 101" />
     <MESSAGE value="new statement learn(end ,sep)" />
-    <option name="LAST_COMMIT_MESSAGE" value="new statement learn(end ,sep)" />
+    <MESSAGE value="\n and \t code" />
+    <option name="LAST_COMMIT_MESSAGE" value="\n and \t code" />
   </component>
 </project>
