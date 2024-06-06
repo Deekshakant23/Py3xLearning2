@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="variable and how to print variable by type function">
-      <change afterPath="$PROJECT_DIR$/lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab007.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="what kind of variable name we can take in python">
+      <change afterPath="$PROJECT_DIR$/lab008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,7 @@
     "Python.lab005.executor": "Run",
     "Python.lab006.executor": "Run",
     "Python.lab007.executor": "Run",
+    "Python.lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -246,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717680568836</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="what kind of variable name we can take in python">
+      <option name="closed" value="true" />
+      <created>1717681667696</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717681667696</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +279,7 @@
     <MESSAGE value="\n and \t code" />
     <MESSAGE value="\n and \t code and max function" />
     <MESSAGE value="variable and how to print variable by type function" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable and how to print variable by type function" />
+    <MESSAGE value="what kind of variable name we can take in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="what kind of variable name we can take in python" />
   </component>
 </project>
