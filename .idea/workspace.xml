@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="what kind of variable name we can take in python">
-      <change afterPath="$PROJECT_DIR$/lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab010.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab010.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717683505111</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="what kind of variable name we can take in python">
+      <option name="closed" value="true" />
+      <created>1717689837413</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717689837413</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
