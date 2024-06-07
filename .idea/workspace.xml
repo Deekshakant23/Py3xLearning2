@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="new function like formatting">
+      <change afterPath="$PROJECT_DIR$/ex07062024/lab0016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex07062024/lab0015.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex07062024/lab0015.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Python.lab0013.executor": "Run",
     "Python.lab0014.executor": "Run",
     "Python.lab0015.executor": "Run",
+    "Python.lab0016.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab003.executor": "Run",
     "Python.lab004.executor": "Run",
@@ -329,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717762280628</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="new function like formatting">
+      <option name="closed" value="true" />
+      <created>1717762621761</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717762621761</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
