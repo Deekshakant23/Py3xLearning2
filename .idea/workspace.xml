@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="new function like formatting">
-      <change afterPath="$PROJECT_DIR$/ex07062024/lab017.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="array and how to dispalyed array lenth">
+      <change afterPath="$PROJECT_DIR$/ex07062024/lab018.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.lab009.executor": "Run",
     "Python.lab010.executor": "Run",
     "Python.lab017.executor": "Run",
+    "Python.lab018.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -347,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717765692442</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="array and how to dispalyed array lenth">
+      <option name="closed" value="true" />
+      <created>1717766888849</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1717766888849</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,6 +383,7 @@
     <MESSAGE value="variable and how to print variable by type function" />
     <MESSAGE value="what kind of variable name we can take in python" />
     <MESSAGE value="new function like formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="new function like formatting" />
+    <MESSAGE value="array and how to dispalyed array lenth" />
+    <option name="LAST_COMMIT_MESSAGE" value="array and how to dispalyed array lenth" />
   </component>
 </project>
