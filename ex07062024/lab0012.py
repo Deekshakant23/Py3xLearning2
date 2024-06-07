@@ -1,3 +1,5 @@
+# Take a user input also print variable type
 
-a = 1
-print(a)
+user_input = input("enter your name")
+print(user_input)
+print(type(user_input))
