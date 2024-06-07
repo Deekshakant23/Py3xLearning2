@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="array and how to dispalyed array lenth">
-      <change afterPath="$PROJECT_DIR$/ex07062024/lab018.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="None data type and empty string">
+      <change afterPath="$PROJECT_DIR$/ex07062024/lab019.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex07062024/lab0016.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex07062024/lab0016.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,7 @@
     "Python.lab010.executor": "Run",
     "Python.lab017.executor": "Run",
     "Python.lab018.executor": "Run",
+    "Python.lab019.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -356,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717766888849</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="None data type and empty string">
+      <option name="closed" value="true" />
+      <created>1717768608152</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717768608152</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,6 +394,7 @@
     <MESSAGE value="what kind of variable name we can take in python" />
     <MESSAGE value="new function like formatting" />
     <MESSAGE value="array and how to dispalyed array lenth" />
-    <option name="LAST_COMMIT_MESSAGE" value="array and how to dispalyed array lenth" />
+    <MESSAGE value="None data type and empty string" />
+    <option name="LAST_COMMIT_MESSAGE" value="None data type and empty string" />
   </component>
 </project>

@@ -17,4 +17,4 @@ print(a)
 #print(name[4]) # string index out of range
 
 # Python - Immutable - that can't be changed
-name[0] = "P" # 'str' object does not support item assignment
+#name[0] = "P" # 'str' object does not support item assignment
