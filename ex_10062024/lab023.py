@@ -5,7 +5,7 @@
 name = "deeksha"
 
 # == -> Compare operator ( bool)
-
+#he “==” operator is known as the equality operator. The operator will return “true” if both the operands are equal
 v1  = (1 == True)
 v2  = (0 == False)
 print(v1)
