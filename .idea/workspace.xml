@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="soe more arthematic operators">
-      <change afterPath="$PROJECT_DIR$/ex_10062024/lab028.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="math function import">
+      <change afterPath="$PROJECT_DIR$/Task_10062024/Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_10062024/lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_10062024/lab027.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
+    "Python.Task1.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.lab0012.executor": "Run",
     "Python.lab0013.executor": "Run",
@@ -398,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718110043822</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="math function import">
+      <option name="closed" value="true" />
+      <created>1718111081867</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718111081867</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,6 +438,7 @@
     <MESSAGE value="list function like insert,append, extend and" />
     <MESSAGE value="Literus and operators" />
     <MESSAGE value="soe more arthematic operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="soe more arthematic operators" />
+    <MESSAGE value="math function import" />
+    <option name="LAST_COMMIT_MESSAGE" value="math function import" />
   </component>
 </project>
