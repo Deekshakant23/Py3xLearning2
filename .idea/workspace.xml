@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="math function import">
-      <change afterPath="$PROJECT_DIR$/Task_10062024/Task1.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="task 1 completed (10 june work)">
+      <change afterPath="$PROJECT_DIR$/Task_10062024/Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
     "Python.lab001.executor": "Run",
     "Python.lab0012.executor": "Run",
     "Python.lab0013.executor": "Run",
@@ -406,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718111081867</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="task 1 completed (10 june work)">
+      <option name="closed" value="true" />
+      <created>1718114080822</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718114080822</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,6 +448,7 @@
     <MESSAGE value="Literus and operators" />
     <MESSAGE value="soe more arthematic operators" />
     <MESSAGE value="math function import" />
-    <option name="LAST_COMMIT_MESSAGE" value="math function import" />
+    <MESSAGE value="task 1 completed (10 june work)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 completed (10 june work)" />
   </component>
 </project>
