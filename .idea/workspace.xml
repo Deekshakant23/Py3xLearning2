@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="loops (for ,while and if ,else and elif)">
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +97,13 @@
     "Python.lab035.executor": "Run",
     "Python.lab036'.executor": "Run",
     "Python.lab037.executor": "Run",
+    "Python.lab038.executor": "Run",
+    "Python.lab039.executor": "Run",
+    "Python.lab040.executor": "Run",
+    "Python.lab041.executor": "Run",
+    "Python.lab042.executor": "Run",
+    "Python.lab043.executor": "Run",
+    "Python.lab044.executor": "Run",
     "Python.lab30.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
