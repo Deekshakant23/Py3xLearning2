@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="loops (for ,while and if ,else and elif)">
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab045.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="function and cases">
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_17062024/lab052.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +103,14 @@
     "Python.lab042.executor": "Run",
     "Python.lab043.executor": "Run",
     "Python.lab044.executor": "Run",
+    "Python.lab045.executor": "Run",
+    "Python.lab046.executor": "Run",
+    "Python.lab047.executor": "Run",
+    "Python.lab048.executor": "Run",
+    "Python.lab049.executor": "Run",
+    "Python.lab050.executor": "Run",
+    "Python.lab051.executor": "Run",
+    "Python.lab052.executor": "Run",
     "Python.lab30.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -479,7 +486,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718187767213</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="function and cases">
+      <option name="closed" value="true" />
+      <created>1718645955220</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1718645955220</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,6 +530,18 @@
     <MESSAGE value="task 1 completed (10 june work)" />
     <MESSAGE value="programs" />
     <MESSAGE value="loops (for ,while and if ,else and elif)" />
-    <option name="LAST_COMMIT_MESSAGE" value="loops (for ,while and if ,else and elif)" />
+    <MESSAGE value="function and cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="function and cases" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_17062024/lab050.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
