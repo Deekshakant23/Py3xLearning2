@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="function aruguments with for loop">
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="call and def function inside the function and lambda expression">
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab064.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -566,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718648162370</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="call and def function inside the function and lambda expression">
+      <option name="closed" value="true" />
+      <created>1718789683258</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1718789683258</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,7 +603,8 @@
     <MESSAGE value="loops (for ,while and if ,else and elif)" />
     <MESSAGE value="function and cases" />
     <MESSAGE value="function aruguments with for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="function aruguments with for loop" />
+    <MESSAGE value="call and def function inside the function and lambda expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="call and def function inside the function and lambda expression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
