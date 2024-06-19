@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="function and cases">
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_17062024/lab052.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="function aruguments with for loop">
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_19062024/lab063.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,9 +110,20 @@
     "Python.lab047.executor": "Run",
     "Python.lab048.executor": "Run",
     "Python.lab049.executor": "Run",
-    "Python.lab050.executor": "Run",
-    "Python.lab051.executor": "Run",
+    "Python.lab050.executor": "Debug",
+    "Python.lab051.executor": "Debug",
     "Python.lab052.executor": "Run",
+    "Python.lab053.executor": "Run",
+    "Python.lab054.executor": "Run",
+    "Python.lab055.executor": "Run",
+    "Python.lab056.executor": "Run",
+    "Python.lab057.executor": "Run",
+    "Python.lab058.executor": "Run",
+    "Python.lab059.executor": "Run",
+    "Python.lab060.executor": "Run",
+    "Python.lab061.executor": "Run",
+    "Python.lab062.executor": "Run",
+    "Python.lab063.executor": "Run",
     "Python.lab30.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -118,6 +131,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+    <option name="mySupportGeventDebugging" value="true" />
+    <option name="myDropIntoDebuggerOnFailedTests" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\deeksha.gupta\PycharmProjects\Py3xLearning\ex_05062024_" />
@@ -168,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +195,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_17062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\deeksha.gupta\PycharmProjects\Py3xLearning\ex_05062024_\lab001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_17062024/lab050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_17062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_17062024/lab051.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_19062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_19062024/lab055.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,9 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab055" />
+        <item itemvalue="Python.lab050" />
+        <item itemvalue="Python.lab051" />
         <item itemvalue="Python.Task3" />
         <item itemvalue="Python.Lab001" />
-        <item itemvalue="Python.lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718645955220</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="function aruguments with for loop">
+      <option name="closed" value="true" />
+      <created>1718648162370</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1718648162370</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,15 +603,21 @@
     <MESSAGE value="programs" />
     <MESSAGE value="loops (for ,while and if ,else and elif)" />
     <MESSAGE value="function and cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="function and cases" />
+    <MESSAGE value="function aruguments with for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="function aruguments with for loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_17062024/lab051.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ex_17062024/lab050.py</url>
           <line>6</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
