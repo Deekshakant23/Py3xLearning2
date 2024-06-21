@@ -1,0 +1,10 @@
+tuple1 = ("oil", "salt", "chilli")
+tuple2 = ("mango", "rusberry")
+
+new_tuple = (tuple1, tuple2)
+print(new_tuple)
+print(new_tuple[0])
+print(new_tuple[0][1])
+print(new_tuple[1][0])
+print(new_tuple[1][1])
+print(new_tuple[0][2])

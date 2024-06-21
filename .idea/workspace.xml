@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="call and def function inside the function and lambda expression">
-      <change afterPath="$PROJECT_DIR$/ex_19062024/lab064.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="tuple and map function">
+      <change afterPath="$PROJECT_DIR$/ex_19062024/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +121,15 @@
     "Python.lab061.executor": "Run",
     "Python.lab062.executor": "Run",
     "Python.lab063.executor": "Run",
+    "Python.lab064.executor": "Run",
+    "Python.lab065.executor": "Run",
+    "Python.lab066.executor": "Run",
+    "Python.lab067.executor": "Run",
+    "Python.lab068.executor": "Run",
+    "Python.lab069.executor": "Run",
+    "Python.lab070.executor": "Run",
     "Python.lab30.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -565,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718789683258</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="tuple and map function">
+      <option name="closed" value="true" />
+      <created>1718790176654</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1718790176654</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,7 +626,8 @@
     <MESSAGE value="function and cases" />
     <MESSAGE value="function aruguments with for loop" />
     <MESSAGE value="call and def function inside the function and lambda expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="call and def function inside the function and lambda expression" />
+    <MESSAGE value="tuple and map function" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuple and map function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
