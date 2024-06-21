@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="tuple and map function">
-      <change afterPath="$PROJECT_DIR$/ex_19062024/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_21062024/lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_21062024/lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_21062024/lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_21062024/lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_21062024/lab070.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="tuple and how to covert tuple into a list and how to append value in tuple">
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_21062024/lab072.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +124,8 @@
     "Python.lab068.executor": "Run",
     "Python.lab069.executor": "Run",
     "Python.lab070.executor": "Run",
+    "Python.lab071.executor": "Run",
+    "Python.lab072.executor": "Run",
     "Python.lab30.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -587,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718790176654</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="tuple and how to covert tuple into a list and how to append value in tuple">
+      <option name="closed" value="true" />
+      <created>1718962642338</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1718962642338</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -602,7 +608,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adasd" />
     <MESSAGE value="2nd code" />
     <MESSAGE value="add new function" />
     <MESSAGE value="new code for multiplication" />
@@ -627,7 +632,8 @@
     <MESSAGE value="function aruguments with for loop" />
     <MESSAGE value="call and def function inside the function and lambda expression" />
     <MESSAGE value="tuple and map function" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuple and map function" />
+    <MESSAGE value="tuple and how to covert tuple into a list and how to append value in tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuple and how to covert tuple into a list and how to append value in tuple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
