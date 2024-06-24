@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="decorator and dict function">
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="decorator and dictionary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_21062024/lab079.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_21062024/lab079.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_21062024/lab080.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_21062024/lab080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_21062024/lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_21062024/lab084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_21062024/lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_21062024/lab085.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -620,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719229626305</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="decorator and dictionary">
+      <option name="closed" value="true" />
+      <created>1719232836925</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1719232836925</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new code for multiplication" />
     <MESSAGE value="new code" />
     <MESSAGE value="rohit's help 101" />
     <MESSAGE value="new statement learn(end ,sep)" />
@@ -660,7 +667,8 @@
     <MESSAGE value="tuple and how to covert tuple into a list and how to append value in tuple" />
     <MESSAGE value="set" />
     <MESSAGE value="decorator and dict function" />
-    <option name="LAST_COMMIT_MESSAGE" value="decorator and dict function" />
+    <MESSAGE value="decorator and dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="decorator and dictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

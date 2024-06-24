@@ -21,5 +21,5 @@ print(len(my_dict2))
 print(my_dict2["age"])
 print(my_dict2["address"])
 
-result = dict(name="sarthak", age=34, address="delhi")
+result = dict(name="sarthak", age=34, address="delhi") #dict is keyword here
 print(result)
