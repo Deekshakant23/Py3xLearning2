@@ -10,11 +10,11 @@ def decorator_function(func):
         func()
         print("*******")
         print("ending")
-    return wrapper
+
+    return wrapper()
 
 @decorator_function
 def say_hello():
     print("Say Hello")
 
 
-say_hello()
