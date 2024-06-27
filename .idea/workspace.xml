@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="decorator and dictionary">
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_26062024/lab094.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_21062024/lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_21062024/lab084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_21062024/lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_21062024/lab085.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +143,12 @@
     "Python.lab084.executor": "Run",
     "Python.lab085.executor": "Run",
     "Python.lab086.executor": "Run",
+    "Python.lab089.executor": "Run",
+    "Python.lab090.executor": "Run",
+    "Python.lab091.executor": "Run",
+    "Python.lab092.executor": "Run",
+    "Python.lab093.executor": "Run",
+    "Python.lab094.executor": "Run",
     "Python.lab30.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -170,28 +182,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_03062024/Lab001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Py3xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_19062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_19062024/lab055.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,13 +256,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_26062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_26062024/lab089.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab089" />
         <item itemvalue="Python.lab079" />
         <item itemvalue="Python.lab080" />
         <item itemvalue="Python.lab082" />
         <item itemvalue="Python.Lab001" />
-        <item itemvalue="Python.lab055" />
       </list>
     </recent_temporary>
   </component>
@@ -628,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719232836925</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="decorator and dictionary">
+      <option name="closed" value="true" />
+      <created>1719233594148</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1719233594148</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
