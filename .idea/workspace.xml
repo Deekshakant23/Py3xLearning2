@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="oops concept(class,object and constructor)">
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/lab103.py" afterDir="false" />
+    <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="map and filter function and recurssion">
+      <change afterPath="$PROJECT_DIR$/ex_28062024/lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_28062024/lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_28062024/lab106.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +155,8 @@
     "Python.lab101.executor": "Run",
     "Python.lab102.executor": "Run",
     "Python.lab103.executor": "Run",
+    "Python.lab105.executor": "Run",
+    "Python.lab106.executor": "Run",
     "Python.lab30.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -179,29 +175,7 @@
       <recent name="C:\Users\deeksha.gupta\PycharmProjects\Py3xLearning\ex_05062024_" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab103">
-    <configuration name="lab079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Py3xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_21062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_21062024/lab079.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="lab089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearning" />
       <option name="ENV_FILES" value="" />
@@ -290,13 +264,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_28062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_28062024/lab105.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab105" />
         <item itemvalue="Python.lab103" />
         <item itemvalue="Python.lab100" />
         <item itemvalue="Python.lab098" />
         <item itemvalue="Python.lab089" />
-        <item itemvalue="Python.lab079" />
       </list>
     </recent_temporary>
   </component>
@@ -668,7 +664,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719492550700</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="map and filter function and recurssion">
+      <option name="closed" value="true" />
+      <created>1719498434946</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1719498434946</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -683,7 +687,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rohit's help 101" />
     <MESSAGE value="new statement learn(end ,sep)" />
     <MESSAGE value="\n and \t code" />
     <MESSAGE value="\n and \t code and max function" />
@@ -708,7 +711,8 @@
     <MESSAGE value="decorator and dict function" />
     <MESSAGE value="decorator and dictionary" />
     <MESSAGE value="oops concept(class,object and constructor)" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops concept(class,object and constructor)" />
+    <MESSAGE value="map and filter function and recurssion" />
+    <option name="LAST_COMMIT_MESSAGE" value="map and filter function and recurssion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
