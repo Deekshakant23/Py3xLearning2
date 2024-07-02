@@ -11,12 +11,12 @@
 # Abstraction - OOPs
 # Hiding the details and showing the what is required
 
-from abc import ABC, abstractmethod
-class Animal(ABC):
+# from abc import ABC, abstractmethod
+class Animal:
     def __init__(self, name):
         self.name = name
 
-    @abstractmethod
+    #@abstractmethod
     def sound(self):
         pass
 
