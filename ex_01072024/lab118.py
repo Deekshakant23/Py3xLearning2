@@ -1,3 +1,5 @@
+#single
+
 class parent:
     gold = "3kg"
 
