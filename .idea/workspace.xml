@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d716524b-3e1f-4fbd-859b-8d5d272738bb" name="Changes" comment="Abstraction">
-      <change afterPath="$PROJECT_DIR$/ex_01072024/lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01072024/lab131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01072024/lab132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_july_03072024/lab140.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_01072024/lab129.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_01072024/lab129.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,6 +184,12 @@
     "Python.lab130.executor": "Run",
     "Python.lab131.executor": "Run",
     "Python.lab132.executor": "Run",
+    "Python.lab133.executor": "Run",
+    "Python.lab134.executor": "Run",
+    "Python.lab136.executor": "Run",
+    "Python.lab137.executor": "Run",
+    "Python.lab138.executor": "Run",
+    "Python.lab139.executor": "Run",
     "Python.lab197.executor": "Run",
     "Python.lab30.executor": "Run",
     "Python.test.executor": "Run",
@@ -332,14 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717382848104</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2nd code">
-      <option name="closed" value="true" />
-      <created>1717383556390</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1717383556390</updated>
     </task>
     <task id="LOCAL-00004" summary="add new function">
       <option name="closed" value="true" />
@@ -725,7 +730,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719918846829</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Abstraction">
+      <option name="closed" value="true" />
+      <created>1719930797922</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1719930797922</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
